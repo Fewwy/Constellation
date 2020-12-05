@@ -3207,7 +3207,9 @@ input, select, textarea {
 				#header h1 br {
 					display: none;
 				}
-
+				#topbanner {
+					max-width: 450px;
+				}
 		/* Footer */
 
 			#footer .copyright li {
@@ -3219,3 +3221,7 @@ input, select, textarea {
 			}
 
 	}
+
+#topbanner {
+	max-width: 750px;
+}
